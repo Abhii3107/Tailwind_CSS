@@ -1,3 +1,3 @@
 ## Screenshot 
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./assets/Screenshot.png)
